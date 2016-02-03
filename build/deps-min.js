@@ -1,0 +1,1 @@
+KISSY.config("requires",{"slide-nav/index":["./header/header","./article/article"],"slide-nav/article/article":["node","./article-view","kg/xtemplate/3.3.3/runtime"],"slide-nav/header/header":["node"]});

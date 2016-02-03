@@ -1,0 +1,1 @@
+KISSY.add("slide-nav/header/header",["node"],function(e,d,a,i){var n=d("node").all;i.exports={init:function(){e.log("header init"),n("header").html("this is header")}}});
